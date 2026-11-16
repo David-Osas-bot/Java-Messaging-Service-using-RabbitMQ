@@ -12,11 +12,11 @@ An asynchronous, event-driven messaging service built with Java and RabbitMQ. Th
 
 ## Tech Stack
 
-- **Language:** Java 17+ *(update to match your version)*
-- **Framework:** Spring Boot / Jakarta EE *(update to match your setup)*
+- **Language:** Java 21
+- **Framework:** Spring Boot 
 - **Message Broker:** RabbitMQ
-- **Build Tool:** Maven / Gradle
-- **Containerization:** Docker *(optional)*
+- **Build Tool:** Maven
+- **Containerization:** Docker
 
 ## Architecture Overview
 
